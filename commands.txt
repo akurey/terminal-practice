@@ -5,3 +5,18 @@ gaa
 ggpull
 gcb
 gcmsg
+
+
+Que tan fácil o difícil fue instalar ZSH? 
+Muy Facil.
+
+Cree usted que puede agilizar el desarrollo este tipo de herramientas?
+Si.
+
+Continuará utilizando ZSH, sus plugins y aliases como parte de su día a día?
+Si.
+
+Algún comentario adicional?
+Ta pichuo, con práctica vuela uno. 
+y uno dedicado a tebi: ..|..
+Salu2
