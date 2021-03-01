@@ -1,0 +1,5 @@
+Commands
+
+gcl https://gitlab.com/akcr/terminal-practice.git
+gba -jsolano
+gco jsolano
