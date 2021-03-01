@@ -1,3 +1,32 @@
+git clone git@gitlab.com:akcr/terminal-practice.git
+cd terminal-practice
+gcb emurillo
+touch file.txt
+code file.txt
+gss
+git add .
+gc -m "Add file.txt"
 git stash
 gcd
 gcb develop-emurillo
+touch file.txt
+code file.txt
+gss
+git add .
+gc -m "Add file.txt 2"
+ggpush
+gco emurillo
+git merge develop-emurillo
+git stash pop
+
+Retroalimentación
+1. ya lo he hecho varias veces pero lo encuentro fácil, lo que se puede volver confuso es personalizarlo.
+2. si mucho
+3. si
+4. 
+
+git add file.txt
+gc -m "Add file.txt 3"
+gco develop-emurillo
+git merge emurillo
+ggpush
