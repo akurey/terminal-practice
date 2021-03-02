@@ -14,3 +14,11 @@ ga .
 gcmsg "merge develop-jsolano"
 gstp
 ga .
+Qué tan fácil o difícil fue instalar ZSH?
+R/ Para mi caso que estoy muy acostumbrado a utilizan git con aplicaciones como Sourcetree , lo que se hace complicado es recordar los comandos, después es muy intuitivo de usar.
+Cree usted que puede agilizar el desarrollo este tipo de herramientas?
+R/ claro
+Continuará utilizando ZSH, sus plugins y aliases como parte de su día a día?
+R/ los tendre en mente, ya que puede ser que se requiera utilizar git en terminal pero en mi caso utilizo mucho Sourcetree.
+Algún comentario adicional?
+Creo que en los comandos de consola se puede utilizan pwd para ver el path del directorio donde estamos.
