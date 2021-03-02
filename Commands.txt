@@ -8,3 +8,9 @@ gcmsg
 gsta
 gcb
 gco develop-jsolano
+gco jsolano
+ggl $develop-jsolano
+ga .  
+gcmsg "merge develop-jsolano"
+gstp
+ga .
