@@ -18,3 +18,18 @@ ga commands.txt
 gcmsg "apadilla: solve merge conflicts"
 gcmsg "apadilla: update commands used"
 ggp apadilla
+
+1. Que tan fácil o difícil fue instalar ZSH?
+Es una instalación muy sencilla, en pocos pasos
+
+2. Cree usted que puede agilizar el desarrollo este tipo de herramientas?
+Claro que si, con solo el hecho de disminunir el typing, es un gran beneficio. Y generalmente estos comandos son muy repetitivos, 
+y a veces es hasta cansado estar escribiendo lo mismo.
+
+3. Continuará utilizando ZSH, sus plugins y aliases como parte de su día a día?
+Ya actualmente lo uso, y lo seguiré utilizando. Aparte de que es útil, poder darle una visualización diferente a la terminal, es
+más atractivo y hasta divertido a la hora de trabajar.
+
+4. Algún comentario adicional?
+El único detalle, es poder aprenderse los aliases, porque a veces puede ser confuso o puede haber una "metida de patas", pero 
+pienso que con práctica se logra rápidamente.
