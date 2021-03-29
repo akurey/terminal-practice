@@ -14,3 +14,7 @@ ga commands.txt
 gst
 gcmsg "apadilla: solve merge conflicts"
 gstp
+ga commands.txt
+gcmsg "apadilla: solve merge conflicts"
+gcmsg "apadilla: update commands used"
+ggp apadilla
