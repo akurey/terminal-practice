@@ -5,3 +5,12 @@ gcmsg "apadilla: initial commit"
 gsta
 gcd
 gcb develop-apadilla
+ga commands.txt
+gcmsg "develop-apadilla: adding commands used"
+ggp develop-apadilla
+gco apadilla
+ggl develop
+ga commands.txt
+gst
+gcmsg "apadilla: solve merge conflicts"
+gstp
